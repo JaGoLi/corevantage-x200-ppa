@@ -1,5 +1,5 @@
-corevantage-x200 (1.4-1focal) focal; urgency=medium
+corevantage-x200 (1.5-1focal) focal; urgency=medium
 
-  * Added support for X230
+  * Added support for T420 and T430
 
  -- Jason Goulet-Lipman (Personal GPG key) <jason.gouletlipman@gmail.com>  Sat, 27 Mar 2021 21:37:41 -0500
